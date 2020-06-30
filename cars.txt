@@ -1,7 +1,4 @@
 BMW X5
 AUDI Q7
-<<<<<<< HEAD
 HONDA X
-=======
 VW XX
->>>>>>> 94b680cc11e6720504d750d08cdf1269a849738e
